@@ -15,7 +15,7 @@
 [![Telegram Open Network](https://img.shields.io/badge/Telegram%20Open%20Network-555?logo=ton&style=flat&logoColor=0098EA)](https://ton.org)
 [![Stars](https://img.shields.io/github/stars/NoahDuongMaster?label=Stars&logo=github)](https://github.com/NoahDuongMaster)
 
-## Experiences
+## Experience
 
 https://www.linkedin.com/in/NoahDuongMaster
 
